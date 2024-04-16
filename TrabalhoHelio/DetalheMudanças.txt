@@ -1,0 +1,11 @@
+IMPORTANTE! Os erros mostrados no arquivo Wave_Depois são links "vazios", todos os links que são apontados como vazios estão funcionando da maneira como deviam. IMPORTANTE! A palheta de cores do site foi escolhida no site Adobe Color utilizando a ferramenta do mesmo para checar o contraste das cores, no Adobe era dado que as cores contrastavam o bastante, porém o Wave e o Acess Monitor Plus alertaram como erro.
+
+Mudanças feitas:
+
+1) 3 imagens não possuiam Alts.
+2) 1 violação de hierarquia onde um h1 aparecia depois de um h2.
+3) Um parágrafo contia muitos <br>'s para a formatação do parágrafo na página.
+4) Tabela sem a tag <caption>.
+5) 2 <button>'s possuiam "papel decoratívo".
+6) 5 ids haviam sido repetidos.
+7) Elementos <li> estavam fora de uma lista.
